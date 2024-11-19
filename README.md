@@ -8,6 +8,8 @@ Welcome to the **GAN Experimental Project** GitHub repository! This project was 
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
+   With proper GPU resources, further hyperparameter tuning, and experimenting with different architectures, the results can be significantly improved
+
 
 ## **Overview**
 The **GAN Experimental Project** aims to train GANs with a very small dataset (around 100 samples) to generate realistic images. This approach can be particularly useful for data augmentation in scenarios where there are limited samples available for training a classifier. The project experiments with Wasserstein GANs and Adaptive Data Augmentation, demonstrating the potential of these techniques even with limited computational resources.
